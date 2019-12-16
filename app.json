@@ -1,0 +1,7 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/about/about"
+  ],
+  "sitemapLocation": "sitemap19.json"
+}

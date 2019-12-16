@@ -1,0 +1,9 @@
+<!--pages/index/index.wxml-->
+<div class="class1">
+<view>hello,world!
+<text>\n</text>
+<text>\n</text>
+<text>\n</text>
+<button size="mini">确认</button>
+</view>
+</div>

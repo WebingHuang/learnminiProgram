@@ -1,0 +1,5 @@
+/* pages/index/index.wxss */
+ .class1{
+  color: #FF0000; 
+  text-align: center;
+}
